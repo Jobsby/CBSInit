@@ -3,4 +3,5 @@
   echo "Neue Anpassung";
   echo "Dritte Anpassung";
   echo "Vierte Anpassung";
+  echo "Siebete Anpassung";
 ?>
