@@ -6,4 +6,6 @@
   echo "Siebete Anpassung";
   echo "Fünfte Anapssung";
   echo "Neunte Anapssung";
+  echo "Zehnte Anapssung";
+  echo "Elfte Anapssung";
 ?>
