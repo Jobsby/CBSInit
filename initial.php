@@ -8,6 +8,7 @@
   echo "Neunte Anapssung";
   echo "Zehnte Anapssung";
   echo "Elfte Anapssung";
-  echo "Zwöfte Anpassung und 13"
+  echo "Zwöfte Anpassung und 13";
+  echo "Zwoefte Anpassung und 14";
   
 ?>
