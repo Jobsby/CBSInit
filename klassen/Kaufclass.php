@@ -1,6 +1,6 @@
 <?php
 function testere() {
-	echo "Hallo";
+	echo "Hallo ihr!";
 }
 
 ?>
