@@ -2,7 +2,8 @@
 /*
  * Created on 11.02.2008
  *
- * To change the template for this generated file go to
+ * To change the template for this generated file go to. 
+ * Hier kommt eine neuen Zeile
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
  
