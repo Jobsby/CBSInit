@@ -6,7 +6,7 @@
  * To change the template for this generated file go to
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
- 
+ //Hier noch eine Zeile
  require_once 'debugger.php';
  
  class DebuggerLog implements Debugger {
