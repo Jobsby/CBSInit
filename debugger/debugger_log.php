@@ -8,6 +8,7 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
  //Hier noch eine Zeile
+ //Und hier eine dritte Zeile hinzugefügt.
  require_once 'debugger.php';
  
  class DebuggerLog implements Debugger {
